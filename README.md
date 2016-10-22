@@ -6,10 +6,13 @@ Lets you easily use .proto files in your unity projects
 
 Clone/copy this repository into your Unity project's Assets folder
 
+~~~~
+git clone [this repo] Assets/ProtoImport
+~~~~
+
 You can also incluse it as a git submodule:
 ~~~~
-cd [someUnityGitProject]
-git submodule add [thisRepo] Assets/ProtoImport
+git submodule add [this repo] Assets/ProtoImport
 ~~~~
 
 ## Usage
